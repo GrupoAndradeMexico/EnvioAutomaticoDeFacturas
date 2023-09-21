@@ -1,0 +1,9 @@
+C:\AndradeGPO\EnvioAutomaticoFacturas\CFDIEnvioAutomatico\CFDIEnvioAutomatico\obj\Debug\CFDIEnvioAutomatico.Form1.resources
+C:\AndradeGPO\EnvioAutomaticoFacturas\CFDIEnvioAutomatico\CFDIEnvioAutomatico\obj\Debug\CFDIEnvioAutomatico.Properties.Resources.resources
+C:\AndradeGPO\EnvioAutomaticoFacturas\CFDIEnvioAutomatico\CFDIEnvioAutomatico\obj\Debug\CFDIEnvioAutomatico.csproj.GenerateResource.Cache
+C:\AndradeGPO\EnvioAutomaticoFacturas\CFDIEnvioAutomatico\CFDIEnvioAutomatico\bin\Debug\CFDIEnvioAutomatico.exe.config
+C:\AndradeGPO\EnvioAutomaticoFacturas\CFDIEnvioAutomatico\CFDIEnvioAutomatico\bin\Debug\CFDIEnvioAutomatico.exe
+C:\AndradeGPO\EnvioAutomaticoFacturas\CFDIEnvioAutomatico\CFDIEnvioAutomatico\bin\Debug\CFDIEnvioAutomatico.pdb
+C:\AndradeGPO\EnvioAutomaticoFacturas\CFDIEnvioAutomatico\CFDIEnvioAutomatico\obj\Debug\CFDIEnvioAutomatico.exe
+C:\AndradeGPO\EnvioAutomaticoFacturas\CFDIEnvioAutomatico\CFDIEnvioAutomatico\obj\Debug\CFDIEnvioAutomatico.pdb
+C:\AndradeGPO\EnvioAutomaticoFacturas\CFDIEnvioAutomatico\CFDIEnvioAutomatico\obj\Debug\CFDIEnvioAutomatico.csprojResolveAssemblyReference.cache

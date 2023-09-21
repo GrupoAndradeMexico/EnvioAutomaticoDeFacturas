@@ -1,0 +1,8 @@
+EL día: [fecha] Siendo las [hora] horas
+
+El envio automático de CFDI´s registró los siguientes errores en el intento de envio automático
+de facturas, provenientes de la sucursal: [NombreSucursal]
+
+[LogEjecucion]
+
+Favor de verificar a la brevedad.

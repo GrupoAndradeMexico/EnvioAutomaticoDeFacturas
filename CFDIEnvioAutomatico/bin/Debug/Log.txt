@@ -1,0 +1,127 @@
+30/07/2014 16:46:40	, desde:  
+30/07/2014 16:46:40	Inicio de Operaciones, desde: Load
+ 
+31/07/2014 13:11:52	Inicio de Operaciones, desde: Load
+ 
+31/07/2014 13:44:40	Inicio de Operaciones, desde: Load
+31/07/2014 13:57:32	Termino de Operaciones el sistema se cerrar?, desde: Load
+ 
+31/07/2014 17:44:53	Inicio de Operaciones, desde: Load
+ 
+16/10/2014 11:01:09	Inicio de Operaciones, desde: Load
+ 
+16/10/2014 11:20:41	Inicio de Operaciones, desde: Load
+16/10/2014 11:27:44	Ya existe una instancia de: CFDIEnvioAutomatico se conserva la instancia actual, desde: Sincronizador_Load
+ 
+08/12/2014 13:16:03	Inicio de Operaciones, desde: Load
+ 
+08/12/2014 13:22:52	Inicio de Operaciones, desde: Load
+ 
+08/12/2014 13:24:02	Inicio de Operaciones, desde: Load
+08/12/2014 13:26:43	Previamente el usuario: Envio Automatico Programado	Envio de CFD con serie/folio: CA/3250 a notiene@gmail.com el 28/11/2014 10:32:50 agencia: 08 FORD AUTOVILISTICA ANDRADE SA DE CV, desde: ChecaYenvia
+08/12/2014 13:26:43	Previamente el usuario: Envio Automatico Programado	Envio de CFD con serie/folio: CA/3254 a efren.pacheco@grupoandrade.com.mx el 28/11/2014 14:00:35 agencia: 08 FORD AUTOVILISTICA ANDRADE SA DE CV, desde: ChecaYenvia
+08/12/2014 13:26:44	Previamente el usuario: Envio Automatico Programado	Envio de CFD con serie/folio: CA/3257 a efren.pacheco@grupoandrade.com.mx el 28/11/2014 14:00:36 agencia: 08 FORD AUTOVILISTICA ANDRADE SA DE CV, desde: ChecaYenvia
+08/12/2014 13:26:44	Previamente el usuario: Envio Automatico Programado	Envio de CFD con serie/folio: CA/3302 a pedro.anguiano4@hotmail.com.mx el 04/12/2014 22:05:32 agencia: 08 FORD AUTOVILISTICA ANDRADE SA DE CV, desde: ChecaYenvia
+08/12/2014 13:26:44	Previamente el usuario: 34 Dulce Reyes	Envio de CFD con serie/folio: DA/20590 a omar_pol@hotmail.com el 24/11/2014 12:32:05 agencia: 08 FORD AUTOVILISTICA ANDRADE SA DE CV, desde: ChecaYenvia
+08/12/2014 13:26:45	Previamente el usuario: Envio Automatico Programado	Envio de CFD con serie/folio: DA/20621 a notiene@notiene.com el 28/11/2014 10:32:51 agencia: 08 FORD AUTOVILISTICA ANDRADE SA DE CV, desde: ChecaYenvia
+08/12/2014 13:26:45	Previamente el usuario: Envio Automatico Programado	Envio de CFD con serie/folio: DA/20679 a cris_patricio@me.com el 01/12/2014 18:08:17 agencia: 08 FORD AUTOVILISTICA ANDRADE SA DE CV, desde: ChecaYenvia
+08/12/2014 13:26:45	Previamente el usuario: Envio Automatico Programado	Envio de CFD con serie/folio: DA/20686 a elmer.gonzalez@grupoandrade.com.mx el 01/12/2014 22:02:10 agencia: 08 FORD AUTOVILISTICA ANDRADE SA DE CV, desde: ChecaYenvia
+08/12/2014 13:26:46	Previamente el usuario: Envio Automatico Programado	Envio de CFD con serie/folio: DA/20703 a cra.xml@grupoandrade.com.mx el 02/12/2014 22:03:30 agencia: 08 FORD AUTOVILISTICA ANDRADE SA DE CV, desde: ChecaYenvia
+08/12/2014 13:26:46	Previamente el usuario: 34 Dulce Reyes	Envio de CFD con serie/folio: DA/20743 a dulce.reyes@grupoandrade.com.mx el 04/12/2014 17:08:46 agencia: 08 FORD AUTOVILISTICA ANDRADE SA DE CV, desde: ChecaYenvia
+08/12/2014 13:26:46	Previamente el usuario: Envio Automatico Programado	Envio de CFD con serie/folio: DA/20766 a hhernandez@bkrrangel.com el 05/12/2014 22:06:26 agencia: 08 FORD AUTOVILISTICA ANDRADE SA DE CV, desde: ChecaYenvia
+08/12/2014 13:29:43	No existe el archivo XML: \\192.168.20.43\\BusinessPro\FORD\CFDF\XML\VIG\DB000002548.xml NO SE ENVIA, desde: ChecaYEnvia
+08/12/2014 13:30:25	No existe el archivo XML: \\192.168.20.43\\BusinessPro\FORD\CFDF\XML\VIG\DB000002549.xml NO SE ENVIA, desde: ChecaYEnvia
+08/12/2014 13:31:17	No existe el archivo XML: \\192.168.20.43\\BusinessPro\FORD\CFDF\XML\VIG\DB000002567.xml NO SE ENVIA, desde: ChecaYEnvia
+08/12/2014 13:31:27	No existe el archivo XML: \\192.168.20.43\\BusinessPro\FORD\CFDF\XML\VIG\DB000002570.xml NO SE ENVIA, desde: ChecaYEnvia
+08/12/2014 13:31:27	Previamente el usuario: Envio Automatico Programado	Envio de CFD con serie/folio: EA/8934 a notienecorreo@notienecorre.com el 28/11/2014 10:33:34 agencia: 08 FORD AUTOVILISTICA ANDRADE SA DE CV, desde: ChecaYenvia
+08/12/2014 13:31:27	Previamente el usuario: Envio Automatico Programado	Envio de CFD con serie/folio: EA/8991 a notienecorreo@notienecorre.com el 29/11/2014 14:01:13 agencia: 08 FORD AUTOVILISTICA ANDRADE SA DE CV, desde: ChecaYenvia
+08/12/2014 13:32:37	No existe el archivo XML: \\192.168.20.43\\BusinessPro\FORD\CFDF\XML\VIG\FB000001616.xml NO SE ENVIA, desde: ChecaYEnvia
+08/12/2014 13:37:54	No existe el archivo XML: \\192.168.20.43\\BusinessPro\FORD\CFDF\XML\VIG\FB000001625.xml NO SE ENVIA, desde: ChecaYEnvia
+08/12/2014 13:38:12	No existe el archivo XML: \\192.168.20.43\\BusinessPro\FORD\CFDF\XML\VIG\FB000001628.xml NO SE ENVIA, desde: ChecaYEnvia
+08/12/2014 13:38:14	Previamente el usuario: Envio Automatico Programado	Envio de CFD con serie/folio: GA/100987 a cirome@prodigy.net.mx el 28/11/2014 10:32:56 agencia: 08 FORD AUTOVILISTICA ANDRADE SA DE CV, desde: ChecaYenvia
+08/12/2014 13:38:17	Previamente el usuario: 27 Edgar Hernandez	Envio de CFD con serie/folio: GA/101030 a jorge.viveros@grupoandrade.com.mx el 24/11/2014 13:03:58 agencia: 08 FORD AUTOVILISTICA ANDRADE SA DE CV, desde: ChecaYenvia
+08/12/2014 13:38:18	Previamente el usuario: 27 Edgar Hernandez	Envio de CFD con serie/folio: GA/101087 a julio.carmona@grupoandrade.com.mx el 26/11/2014 13:01:34 agencia: 08 FORD AUTOVILISTICA ANDRADE SA DE CV, desde: ChecaYenvia
+08/12/2014 13:38:21	Previamente el usuario: Envio Automatico Programado	Envio de CFD con serie/folio: GA/101089 a trrodriguez.ventas@hotmail.com el 28/11/2014 10:32:57 agencia: 08 FORD AUTOVILISTICA ANDRADE SA DE CV, desde: ChecaYenvia
+08/12/2014 13:38:24	Previamente el usuario: 47 Yuliana Gabriela  Vazquez Casta?eda	Envio de CFD con serie/folio: GA/101124 a echavez@gkastro.com.mx el 26/11/2014 16:52:48 agencia: 08 FORD AUTOVILISTICA ANDRADE SA DE CV, desde: ChecaYenvia
+08/12/2014 13:38:28	Previamente el usuario: Envio Automatico Programado	Envio de CFD con serie/folio: GA/101127 a autopartes.vega@yahoo.com el 28/11/2014 10:32:57 agencia: 08 FORD AUTOVILISTICA ANDRADE SA DE CV, desde: ChecaYenvia
+08/12/2014 13:38:30	Previamente el usuario: Envio Automatico Programado	Envio de CFD con serie/folio: GA/101143 a ginoford@hotmail.com el 28/11/2014 10:32:57 agencia: 08 FORD AUTOVILISTICA ANDRADE SA DE CV, desde: ChecaYenvia
+08/12/2014 13:38:31	Previamente el usuario: Envio Automatico Programado	Envio de CFD con serie/folio: GA/101144 a ginoford@hotmail.com el 28/11/2014 10:32:57 agencia: 08 FORD AUTOVILISTICA ANDRADE SA DE CV, desde: ChecaYenvia
+08/12/2014 13:38:33	Previamente el usuario: Envio Automatico Programado	Envio de CFD con serie/folio: GA/101162 a humberto.marcelinl@hotmail.com el 28/11/2014 10:32:58 agencia: 08 FORD AUTOVILISTICA ANDRADE SA DE CV, desde: ChecaYenvia
+08/12/2014 13:38:34	Previamente el usuario: Envio Automatico Programado	Envio de CFD con serie/folio: GA/101173 a notienecorreo@notienecorre.com el 28/11/2014 10:32:58 agencia: 08 FORD AUTOVILISTICA ANDRADE SA DE CV, desde: ChecaYenvia
+08/12/2014 13:38:34	Previamente el usuario: Envio Automatico Programado	Envio de CFD con serie/folio: GA/101219 a juma@alestra.net.mx el 28/11/2014 10:32:58 agencia: 08 FORD AUTOVILISTICA ANDRADE SA DE CV, desde: ChecaYenvia
+08/12/2014 13:38:35	Previamente el usuario: Envio Automatico Programado	Envio de CFD con serie/folio: GA/101226 a clioqui@live.com el 28/11/2014 10:32:58 agencia: 08 FORD AUTOVILISTICA ANDRADE SA DE CV, desde: ChecaYenvia
+08/12/2014 13:38:35	Previamente el usuario: Envio Automatico Programado	Envio de CFD con serie/folio: GA/101233 a notienecorreo@notienecorre.com el 28/11/2014 10:32:59 agencia: 08 FORD AUTOVILISTICA ANDRADE SA DE CV, desde: ChecaYenvia
+08/12/2014 13:38:35	Previamente el usuario: 27 Edgar Hernandez	Envio de CFD con serie/folio: GA/101285 a julio.carmona@grupoandrade.com.mx el 27/11/2014 12:04:45 agencia: 08 FORD AUTOVILISTICA ANDRADE SA DE CV, desde: ChecaYenvia
+08/12/2014 13:38:36	Previamente el usuario: Envio Automatico Programado	Envio de CFD con serie/folio: GA/101323 a refdesan.martin@hotmail.com el 28/11/2014 10:32:59 agencia: 08 FORD AUTOVILISTICA ANDRADE SA DE CV, desde: ChecaYenvia
+08/12/2014 13:38:37	Previamente el usuario: Envio Automatico Programado	Envio de CFD con serie/folio: GA/101340 a mayoreodelarosa@hotmail.com el 28/11/2014 10:32:59 agencia: 08 FORD AUTOVILISTICA ANDRADE SA DE CV, desde: ChecaYenvia
+08/12/2014 13:38:38	Previamente el usuario: Envio Automatico Programado	Envio de CFD con serie/folio: GA/101448 a notienecorreo@notienecorre.com el 29/11/2014 14:01:19 agencia: 08 FORD AUTOVILISTICA ANDRADE SA DE CV, desde: ChecaYenvia
+08/12/2014 13:38:42	Previamente el usuario: Envio Automatico Programado	Envio de CFD con serie/folio: GA/101453 a notienecorreo@notienecorre.com el 29/11/2014 14:01:19 agencia: 08 FORD AUTOVILISTICA ANDRADE SA DE CV, desde: ChecaYenvia
+08/12/2014 13:38:43	Previamente el usuario: Envio Automatico Programado	Envio de CFD con serie/folio: GA/101490 a abor@notitenen.com el 29/11/2014 14:01:19 agencia: 08 FORD AUTOVILISTICA ANDRADE SA DE CV, desde: ChecaYenvia
+08/12/2014 13:38:43	Previamente el usuario: Envio Automatico Programado	Envio de CFD con serie/folio: GA/101512 a abor@notitenen.com el 01/12/2014 14:01:54 agencia: 08 FORD AUTOVILISTICA ANDRADE SA DE CV, desde: ChecaYenvia
+08/12/2014 13:38:44	Previamente el usuario: Envio Automatico Programado	Envio de CFD con serie/folio: GA/101577 a mcd.er@hotmail.com el 01/12/2014 18:08:24 agencia: 08 FORD AUTOVILISTICA ANDRADE SA DE CV, desde: ChecaYenvia
+08/12/2014 13:38:44	Previamente el usuario: Envio Automatico Programado	Envio de CFD con serie/folio: GA/101585 a ecsp-cdf@cedisa.com.mx el 01/12/2014 18:05:27 agencia: 08 FORD AUTOVILISTICA ANDRADE SA DE CV, desde: ChecaYenvia
+08/12/2014 13:38:44	Previamente el usuario: Envio Automatico Programado	Envio de CFD con serie/folio: GA/101588 a ecsp-cdf@cedisa.com.mx el 01/12/2014 18:06:32 agencia: 08 FORD AUTOVILISTICA ANDRADE SA DE CV, desde: ChecaYenvia
+08/12/2014 13:38:45	Previamente el usuario: Envio Automatico Programado	Envio de CFD con serie/folio: GA/101621 a notienecorreo@notienecorre.com el 01/12/2014 18:08:24 agencia: 08 FORD AUTOVILISTICA ANDRADE SA DE CV, desde: ChecaYenvia
+08/12/2014 13:38:45	Previamente el usuario: Envio Automatico Programado	Envio de CFD con serie/folio: GA/101711 a notienecorreo@notienecorre.com el 02/12/2014 18:03:50 agencia: 08 FORD AUTOVILISTICA ANDRADE SA DE CV, desde: ChecaYenvia
+08/12/2014 13:38:46	Previamente el usuario: Envio Automatico Programado	Envio de CFD con serie/folio: GA/101742 a casaford5hermanos@yahoo.com.mx el 03/12/2014 18:05:12 agencia: 08 FORD AUTOVILISTICA ANDRADE SA DE CV, desde: ChecaYenvia
+08/12/2014 13:38:47	Previamente el usuario: Envio Automatico Programado	Envio de CFD con serie/folio: GA/101793 a gpoarcxp@gmail.com el 03/12/2014 18:05:12 agencia: 08 FORD AUTOVILISTICA ANDRADE SA DE CV, desde: ChecaYenvia
+08/12/2014 13:38:48	Previamente el usuario: Envio Automatico Programado	Envio de CFD con serie/folio: GA/101832 a catusk@hotmail.com el 03/12/2014 18:05:13 agencia: 08 FORD AUTOVILISTICA ANDRADE SA DE CV, desde: ChecaYenvia
+08/12/2014 13:38:49	Previamente el usuario: Envio Automatico Programado	Envio de CFD con serie/folio: GA/101845 a autopartes.correa@hotmail.com el 04/12/2014 10:04:26 agencia: 08 FORD AUTOVILISTICA ANDRADE SA DE CV, desde: ChecaYenvia
+08/12/2014 13:38:50	Previamente el usuario: Envio Automatico Programado	Envio de CFD con serie/folio: GA/101846 a autopartes.correa@hotmail.com el 04/12/2014 14:04:55 agencia: 08 FORD AUTOVILISTICA ANDRADE SA DE CV, desde: ChecaYenvia
+08/12/2014 13:38:51	Previamente el usuario: Envio Automatico Programado	Envio de CFD con serie/folio: GA/101848 a abor@notitenen.com el 04/12/2014 14:04:55 agencia: 08 FORD AUTOVILISTICA ANDRADE SA DE CV, desde: ChecaYenvia
+08/12/2014 13:38:52	Previamente el usuario: Envio Automatico Programado	Envio de CFD con serie/folio: GA/101943 a ginoford@hotmail.com el 05/12/2014 14:05:34 agencia: 08 FORD AUTOVILISTICA ANDRADE SA DE CV, desde: ChecaYenvia
+08/12/2014 13:38:52	Previamente el usuario: 27 Edgar Hernandez	Envio de CFD con serie/folio: GA/102031 a julio.carmona@grupoandrade.com.mx el 06/12/2014 13:46:08 agencia: 08 FORD AUTOVILISTICA ANDRADE SA DE CV, desde: ChecaYenvia
+08/12/2014 13:39:00	No existe el archivo XML: \\192.168.20.43\\BusinessPro\FORD\CFDF\XML\VIG\IB000000219.xml NO SE ENVIA, desde: ChecaYEnvia
+08/12/2014 13:39:13	No existe el archivo XML: \\192.168.20.43\\BusinessPro\FORD\CFDF\XML\VIG\IB000000222.xml NO SE ENVIA, desde: ChecaYEnvia
+08/12/2014 13:39:15	Previamente el usuario: Envio Automatico Programado	Envio de CFD con serie/folio: MK/17569 a r-union@hotmail.com el 28/11/2014 10:33:02 agencia: 08 FORD AUTOVILISTICA ANDRADE SA DE CV, desde: ChecaYenvia
+08/12/2014 13:39:16	Previamente el usuario: Envio Automatico Programado	Envio de CFD con serie/folio: MK/17612 a refayautos@hotmail.com el 28/11/2014 10:33:03 agencia: 08 FORD AUTOVILISTICA ANDRADE SA DE CV, desde: ChecaYenvia
+08/12/2014 13:39:16	Previamente el usuario: Envio Automatico Programado	Envio de CFD con serie/folio: MK/17661 a mrford_xochimilco1@hotmail.com el 28/11/2014 10:33:03 agencia: 08 FORD AUTOVILISTICA ANDRADE SA DE CV, desde: ChecaYenvia
+08/12/2014 13:39:18	Previamente el usuario: Envio Automatico Programado	Envio de CFD con serie/folio: MK/17677 a coraleh@hotmail.com el 28/11/2014 10:33:03 agencia: 08 FORD AUTOVILISTICA ANDRADE SA DE CV, desde: ChecaYenvia
+08/12/2014 13:39:23	Previamente el usuario: Envio Automatico Programado	Envio de CFD con serie/folio: MK/17705 a nolvera8@gmail.com el 28/11/2014 10:33:03 agencia: 08 FORD AUTOVILISTICA ANDRADE SA DE CV, desde: ChecaYenvia
+08/12/2014 13:39:24	Previamente el usuario: Envio Automatico Programado	Envio de CFD con serie/folio: MK/17736 a rtoguillermoreyes@yahoo.com.mx el 28/11/2014 10:33:03 agencia: 08 FORD AUTOVILISTICA ANDRADE SA DE CV, desde: ChecaYenvia
+08/12/2014 13:39:24	Previamente el usuario: Envio Automatico Programado	Envio de CFD con serie/folio: MK/17739 a auxcont1.dao@grupoautofin.com el 28/11/2014 10:33:04 agencia: 08 FORD AUTOVILISTICA ANDRADE SA DE CV, desde: ChecaYenvia
+ 
+22/02/2018 09:57:50	Inicio de Operaciones, desde: Load
+ 
+22/02/2018 10:16:23	Inicio de Operaciones, desde: Load
+ 
+22/02/2018 10:36:47	Inicio de Operaciones, desde: Load
+ 
+01/03/2018 11:34:13	Inicio de Operaciones, desde: Load
+ 
+01/03/2018 11:55:52	Inicio de Operaciones, desde: Load
+ 
+01/03/2018 12:01:03	Inicio de Operaciones, desde: Load
+ 
+01/03/2018 12:02:04	Inicio de Operaciones, desde: Load
+ 
+01/03/2018 12:05:56	Inicio de Operaciones, desde: Load
+ 
+11/06/2020 05:32:23 p.m.	Inicio de Operaciones, desde: Load
+ 
+11/06/2020 05:35:39 p.m.	Inicio de Operaciones, desde: Load
+ 
+11/06/2020 05:37:17 p.m.	Inicio de Operaciones, desde: Load
+11/06/2020 05:59:42 p.m.	Error al enviar correo., desde: EnviaLog
+ 
+11/06/2020 06:28:37 p.m.	Inicio de Operaciones, desde: Load
+11/06/2020 06:49:25 p.m.	Error al enviar correo., desde: EnviaLog
+ 
+11/06/2020 06:57:48 p.m.	Inicio de Operaciones, desde: Load
+ 
+11/06/2020 07:01:37 p.m.	Inicio de Operaciones, desde: Load
+ 
+11/06/2020 07:07:40 p.m.	Inicio de Operaciones, desde: Load
+ 
+11/06/2020 07:31:14 p.m.	Inicio de Operaciones, desde: Load
+ 
+11/06/2020 07:34:34 p.m.	Inicio de Operaciones, desde: Load
+11/06/2020 07:36:23 p.m.	Error al enviar correo., desde: EnviaLog
+11/06/2020 07:37:28 p.m.	Termino de Operaciones el sistema se cerrar?, desde: Load
+ 
+01/06/2023 11:54:41 a.m.	Inicio de Operaciones, desde: Load
+ 
+01/06/2023 12:02:33 p.m.	Inicio de Operaciones, desde: Load
+01/06/2023 12:07:02 p.m.	Previamente el usuario: 8 Usuario Sistemas	Envio de CFD con serie/folio: GA/206267 a luis.bonnet@grupoandrade.com el 01/06/2023 11:08:17 a.m. agencia: 08 FORD AUTOVILISTICA ANDRADE SA DE CV, desde: ChecaYenvia
+ 
+01/06/2023 12:12:59 p.m.	Inicio de Operaciones, desde: Load
